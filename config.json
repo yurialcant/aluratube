@@ -2,6 +2,26 @@
     "name": "Yuri Cordeiro",
     "job": "Data Scientist Jr.",
     "github": "yurialcant",
+    "banner": "https://images.unsplash.com/photo-1488229297570-58520851e868?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80",
+    "favoritos": {
+        "Canais Recomendados": [
+            {
+                "imgUser": "https://yt3.ggpht.com/m8Yrqf0Y81L4mZ1Cq7rGnJ4NDHe6729rxiFZvWyy9-xd_Z7Osmza7J8NWpN1axMHcCb1oKJNgA=s88-c-k-c0x00ffffff-no-rj",
+                "nameUser": "Mario Souto - Dev Soutinho",
+                "urlUser": "https://www.youtube.com/c/DevSoutinho"
+            },
+            {
+                "imgUser": "https://yt3.ggpht.com/xqhIoXspeX7eqouJvNHl1xqpv9213Pl26ENZbuouXxO2RlDadjsveNXfgnj8GTUk7thFYUkVRg=s88-c-k-c0x00ffffff-no-rj",
+                "nameUser": "Alura Cursos Online",
+                "urlUser": "https://www.youtube.com/user/aluracursosonline"
+            },
+            {
+                "imgUser": "https://yt3.ggpht.com/84ALFuw4UCyfL1TyoMU77D-I6xngPjn2X0kbx2bMAyoFzWwR-utcrbDn_MuNJcroPcmU9NdGGQ=s88-c-k-c0x00ffffff-no-rj",
+                "nameUser": "Rafaella Ballerini",
+                "urlUser": "https://www.youtube.com/c/rafaellaballerini"
+            }
+        ]
+    },
     "playlists": {
         "futebol": [
             {
@@ -10,24 +30,24 @@
                 "thumb": "https://i.ytimg.com/vi/UojYc8Vt7yk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiS2Dd1534v2rtz8lnuVteEJpGrw"
             },
             {
-                "title":"PSG e Liverpool pagam o preço dos segundos lugares",
-                "url":"https://www.youtube.com/watch?v=XPvccUKAwXs&t=1s",
-                "thumb":"https://i.ytimg.com/vi/XPvccUKAwXs/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVIDWpzTGalBx9BuMBJ9K0RNsjFA"
+                "title": "PSG e Liverpool pagam o preço dos segundos lugares",
+                "url": "https://www.youtube.com/watch?v=XPvccUKAwXs&t=1s",
+                "thumb": "https://i.ytimg.com/vi/XPvccUKAwXs/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVIDWpzTGalBx9BuMBJ9K0RNsjFA"
             },
             {
-                "title":"My top 10 Wonderkids in Football Manager 2023",
-                "url":"https://www.youtube.com/watch?v=U0Si3M5pzV8",
-                "thumb":"https://i.ytimg.com/vi/U0Si3M5pzV8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_VpLb5ocAWIbOrRnjTL_SRUfjnw"
+                "title": "My top 10 Wonderkids in Football Manager 2023",
+                "url": "https://www.youtube.com/watch?v=U0Si3M5pzV8",
+                "thumb": "https://i.ytimg.com/vi/U0Si3M5pzV8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_VpLb5ocAWIbOrRnjTL_SRUfjnw"
             },
             {
-                "title":"PSG: um clube formado sem suor e a lei do esforço mínimo",
-                "url":"https://www.youtube.com/watch?v=KcITJ97TK80",
-                "thumb":"https://i.ytimg.com/vi/KcITJ97TK80/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb2fVsgjuOqQ6sAVSxbXUrRDsc-w"
+                "title": "PSG: um clube formado sem suor e a lei do esforço mínimo",
+                "url": "https://www.youtube.com/watch?v=KcITJ97TK80",
+                "thumb": "https://i.ytimg.com/vi/KcITJ97TK80/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb2fVsgjuOqQ6sAVSxbXUrRDsc-w"
             },
             {
-                "title":"Jogadores brasileiros que nunca jogaram no Brasil",
-                "url":"https://www.youtube.com/watch?v=tH7uMAIpuAE",
-                "thumb":"https://i.ytimg.com/vi/tH7uMAIpuAE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3sU9RHx04jEdcnP2Sp-dG6XR1WA"
+                "title": "Jogadores brasileiros que nunca jogaram no Brasil",
+                "url": "https://www.youtube.com/watch?v=tH7uMAIpuAE",
+                "thumb": "https://i.ytimg.com/vi/tH7uMAIpuAE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3sU9RHx04jEdcnP2Sp-dG6XR1WA"
             }
         ],
         "front-end": [
