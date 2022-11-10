@@ -1,25 +1,23 @@
 import React from "react";
 import config from "../config.json";
 import styled from "styled-components";
-import { CSSReset } from "../src/components/CSSReset";
 import Menu from "../src/components/Menu";
 import { StyledTimeline } from "../src/components/Timeline";
 import {StyledFavorites} from "../src/components/Favorites";
 
 function HomePage() {
-    const estiloDaHomePage = { //backgroundColor: "red" 
-    };
+   
     const [valorDoFiltro, setValorDoFiltro] = React.useState("");
     
 
     return (
         <>
-         <CSSReset />   
+           
          <div style={{
                 display: "flex",
                 flexDirection: "column",
                 flex: 1,
-                // backgroundColor: "red",
+                
             }}>
             <Menu valorDoFiltro={valorDoFiltro} setValorDoFiltro={setValorDoFiltro} />
             <Header />
@@ -36,6 +34,8 @@ export default HomePage
 
 
 const StyledHeader = styled.div`
+    background-color: ${({theme}) => theme.backgroundLevel1};
+
         img {
         width: 100%;
         height: 70vh;
