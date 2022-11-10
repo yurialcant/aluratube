@@ -48,5 +48,28 @@ E para finalizar a nossa primeira aula, criamos as funções de Timeline e de fa
 E ao final da primeira aula, obtivemos o seguinte resultado em nosso projeto:
 ![image](https://user-images.githubusercontent.com/102321564/200429243-99ac9e8f-e625-437a-a2b0-e0077b1ce2e1.png)
 
+<h1>Segunda Aula</h1>
+<h2>Entendo o State e fazendo a busca do AluraTube</h2>
+
+Em nossa segunda aula, iniciamos criando a pasta de Menu e adicionando a pasta components, jogamos o arquivo menu dentro da pasta Menu e alteramos o nome do arquivo para index, para não ocorrer problemas com os imports no arquivo principal.
+
+![Captura de Tela (258)](https://user-images.githubusercontent.com/102321564/200649486-6b02f17a-3305-4bff-b9f0-5ace06d6afb7.png)
+
+Criamos o arquivo Search, que irá representar a barra de busca, adicionamos a função search com criação das constantes valorDaBusca e setValorDaBusca e em nosso retorno adicionamos o StyledSearch que é a estilização do botão de busca.
+
+![Captura de Tela (259)](https://user-images.githubusercontent.com/102321564/200650436-d463cdc3-9516-4122-a27e-41381eca0544.png)
+
+Após isso, no arquivo principal adicionamos as constantes com valorDoFiltro e setValorDoFiltro recebendo o React.useState que irá nos ajudar no uso da nossa barra de busca, passando os valores, dentro da nossa HomePage.
+
+![Captura de Tela (260)](https://user-images.githubusercontent.com/102321564/200650965-e67088e1-9a49-4b7f-9b84-83598a426af0.png)
+
+E por fim no nosso mapping de videos adicionamos o filter de video com os Normalized para não ocorrer erros na busca, junto do nosso return com a função includes recebendo nosso searchValueNormalized.
+
+![Captura de Tela (261)](https://user-images.githubusercontent.com/102321564/200651684-67bc6e19-d8fd-4f75-9ec8-4ec6104421da.png)
+
+Portanto ao fim da segunda aula obtivemos o seguinte resultado:
+
+![Captura de Tela (262)](https://user-images.githubusercontent.com/102321564/200651974-a46fb6a5-de08-40e2-b361-700153c49c65.png)
+
 
 
