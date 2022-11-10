@@ -71,5 +71,25 @@ Portanto ao fim da segunda aula obtivemos o seguinte resultado:
 
 ![Captura de Tela (262)](https://user-images.githubusercontent.com/102321564/200651974-a46fb6a5-de08-40e2-b361-700153c49c65.png)
 
+<h1>Terceira Aula</h1>
+<h2>Implementando o Dark Mode com CONTEXTAPI</h2>
+
+Nosso objetivo na terceira aula, foi o de criar um modo que irá nos permitir alterar entre o tema light e o dark em nosso projeto, para isso, criamos o arquivo DarkModeSwitch onde nele está implementado a estilização do nosso modo dark e adicionamos a função do switch entre os modos, atravpes do uso combinado entre o useContext do React com o toggleMode para possibilitar a mudança de temas.
+
+![Captura de Tela (263)](https://user-images.githubusercontent.com/102321564/201160271-f670f97c-2463-43f5-b367-e012e5b3d474.png)
+
+Aós isso criamos o arquivo ColorMode para armazenar o Provider que irá armazenar as configurações para as mudanças de temas, setamos um condição para a verificação da mudança de tema.
+
+
+![Captura de Tela (264)](https://user-images.githubusercontent.com/102321564/201160950-6a2defe8-862f-4ae9-bf06-b69d1072cb7f.png)
+
+Por fim criamos o arquivo _app que irá possuir as definições globais do nosso NextJS e o ThemeProvider que ira prover o tema para nossa aplicação.
+
+![Captura de Tela (265)](https://user-images.githubusercontent.com/102321564/201161530-8b4a0d0b-6448-487e-bf69-bb8f2835a720.png)
+
+
+
+
+
 
 
