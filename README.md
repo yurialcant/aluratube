@@ -14,6 +14,10 @@ Projeto criado durante a Imersão React da Alura.
 <img src="https://img.shields.io/static/v1?label=LANGUANGE&message=JAVASCRIPT&color=YELLOW&style=for-the-badge"/>
 </p>
 
+
+![](https://user-images.githubusercontent.com/102321564/200651684-67bc6e19-d8fd-4f75-9ec8-4ec6104421da.png#vitrinedev)
+
+
 <h1>Primeira Aula</h1>
 <h2>A WEB, OS COMPONENTES E O DEPLOY!</h2>
 Na nossa primeira aula, fomos aprensentados ao nosso projeto, que é construir uma HomePage semelhante ao que é encontrado no Youtube, para isso decidimos utilizar o React para nos auxiliar e utilizar o VSCode para construir nosso código.
